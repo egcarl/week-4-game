@@ -1,0 +1,13 @@
+.gemImage {
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
+
+.gemBlue, .gemGreen, .gemRed, .gemYellow {
+    display: inline;
+}
+
+.counter {
+    font-weight: bold;
+}
